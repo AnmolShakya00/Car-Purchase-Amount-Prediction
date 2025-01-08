@@ -1,8 +1,11 @@
-Car Purchase Amount Prediction Model
+                                                            Car Purchase Amount Prediction Model
+
 Project Overview
+
 This project implements a machine learning model that predicts the car purchase amount based on user input, including gender, age, annual salary, credit card debt, and net worth. The model is built using a Neural Network with Keras, and it is deployed as a Streamlit web application, allowing users to input their details and receive a prediction for the car purchase amount.
 
 Features
+
 Model: A Neural Network model built and trained using Keras for predicting car purchase amount.
 User Input: Users provide details such as gender, age, salary, credit card debt, and net worth.
 Prediction: After entering the details, the user can get an estimated car purchase amount.
